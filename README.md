@@ -143,7 +143,7 @@ Who is this for?
 If you're building utilities for yourself, other programmers, or something which produces a result that you want to capture and pipe over to another console application (e.g. *nix philosophy utils), Gooey probably isn't the tool for you. However, if you're building 'run and done,' around-the-office-style scripts, things that shovel bits from point A to point B, or simply something that's targeted at a non-programmer, Gooey is the perfect tool for the job. It lets you build as complex of an application as your heart desires all while getting the GUI side for free. 
 
 
-How does it work?
+How does this work?
 -----------------
 
 Gooey is attached to your code via a simple decorator on whichever method has your `argparse` declarations.
