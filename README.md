@@ -1,4 +1,4 @@
-Gooey (Beta test1)
+Gooey (Beta Test1)
 =====  
 Turn (almost) any Python Console Program into a GUI application with one line  
 
